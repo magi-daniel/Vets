@@ -1,0 +1,7 @@
+INSERT INTO `pets` VALUES 
+(1, 'Aki', 'Cat', 1),
+(2, 'Baki', 'Dog', 2),
+(3, 'Fji', 'Fish', 3),
+(4, 'Dli', 'Cat', 4),
+(5, 'Jui', 'Dog', 5),
+(6, 'Gji', 'Dog', 4);

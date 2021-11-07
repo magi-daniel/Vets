@@ -1,0 +1,6 @@
+INSERT INTO `owners` VALUES 
+(1, 'Udi', 'Daniel'),
+(2, 'Izik', 'Daniel'),
+(3, 'Rinat', 'Shaer'),
+(4, 'Magi', 'Daniel'),
+(5, 'Lilach', 'Yosef');
